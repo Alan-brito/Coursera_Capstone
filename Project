@@ -1,0 +1,6 @@
+# This is the trail of using github for the capstone project.
+
+import pandas as pd
+import numpy as pd
+
+print ("Hello Capstone Project Course!")
